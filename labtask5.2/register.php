@@ -40,6 +40,13 @@ if(isset($_POST['submit'])){
 
 <h3 style="text-align:center;">Registration</h3>
 
+<div align="center">
+    <a href="index.php">Home</a> |
+    <a href="login.php">Login</a> |
+    <a href="register.php">Registration</a>
+</div>
+<hr>
+
 <hr>
 
 <form method="post">
