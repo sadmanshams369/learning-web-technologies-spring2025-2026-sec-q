@@ -65,7 +65,7 @@ if(isset($_POST['update']) && $_SESSION['role']=="admin") {
     <?php } ?>
 </tr>
 <?php } ?>
-</table>
+</table>    
 
 <?php if($_SESSION['role']=="admin") { ?>
 
